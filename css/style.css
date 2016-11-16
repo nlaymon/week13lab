@@ -3,3 +3,7 @@ body {
   color: #FFF;
   background-image: url("pics/background.jpg");
 }
+
+a {
+  color: #FFF; 
+}
