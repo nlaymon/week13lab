@@ -1,4 +1,12 @@
-
+body {
+   background-color: #301356;
+   color: #FFF;
+   background-image: url("../pics/background.jpg");
+ }
+ 
+ a {
+   color: #FFF; 
+ }
 
 .ttw-music-player {
     width: 370px;
